@@ -1,0 +1,14 @@
+C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\bin\Debug\net8.0\ShoppingListLab.exe
+C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\bin\Debug\net8.0\ShoppingListLab.deps.json
+C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\bin\Debug\net8.0\ShoppingListLab.runtimeconfig.json
+C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\bin\Debug\net8.0\ShoppingListLab.dll
+C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\bin\Debug\net8.0\ShoppingListLab.pdb
+C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net8.0\ShoppingListLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net8.0\ShoppingListLab.AssemblyInfoInputs.cache
+C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net8.0\ShoppingListLab.AssemblyInfo.cs
+C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net8.0\ShoppingListLab.csproj.CoreCompileInputs.cache
+C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net8.0\ShoppingListLab.dll
+C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net8.0\refint\ShoppingListLab.dll
+C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net8.0\ShoppingListLab.pdb
+C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net8.0\ShoppingListLab.genruntimeconfig.cache
+C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net8.0\ref\ShoppingListLab.dll
