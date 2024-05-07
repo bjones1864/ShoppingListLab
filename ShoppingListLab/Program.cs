@@ -96,6 +96,8 @@ if (cart.Any())
 {
     decimal sum = 0;
 
+    cart = cart.OrderByDescending(x => itemsStocked[x]).ToList();
+
 
     Console.WriteLine("Your Cart:");
 

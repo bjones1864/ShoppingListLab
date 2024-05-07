@@ -12,3 +12,4 @@ C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net8.0\ref
 C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net8.0\ShoppingListLab.pdb
 C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net8.0\ShoppingListLab.genruntimeconfig.cache
 C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net8.0\ref\ShoppingListLab.dll
+C:\Users\miwol\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net8.0\ShoppingListLab.sourcelink.json

@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{13A45878-3AA5-4F94-8CEB-D5C8FFBE8B5D}|ShoppingListLab\\ShoppingListLab.csproj|c:\\users\\miwol\\source\\repos\\shoppinglistlab\\shoppinglistlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13A45878-3AA5-4F94-8CEB-D5C8FFBE8B5D}|ShoppingListLab\\ShoppingListLab.csproj|solutionrelative:shoppinglistlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\miwol\\source\\repos\\LinqLecture\\LinqLecture\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +17,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\LinqLecture\\LinqLecture\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LinqLecture\\LinqLecture\\Program.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\LinqLecture\\LinqLecture\\Program.cs",
+              "RelativeToolTip": "..\\LinqLecture\\LinqLecture\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:42:24.185Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "ShoppingListLab\\Program.cs",
               "ToolTip": "C:\\Users\\miwol\\source\\repos\\ShoppingListLab\\ShoppingListLab\\Program.cs",
               "RelativeToolTip": "ShoppingListLab\\Program.cs",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAAAF4AAAAPAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T17:44:03.975Z",
               "EditorCaption": ""
